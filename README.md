@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @0SU2
-- 👀 I’m interested in Python 🐍 and Blockchain
-- 🌱 I’m currently learning Blockchain and try to get my intership in a big company
+- 👋 Hi, I’m @0SU2.
+- 👀 I’m interested in Python 🐍 and other good stuff.
+- 🌱 I’m currently learning JavaScript, Python, lua and try to get my intership in a big company
 - 💞️ I’m looking to collaborate on Google or something similar
 
 <!---
